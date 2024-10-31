@@ -1,6 +1,6 @@
 # **Graphing Guide with R**
 
-This repository provides templates, data, and output graphs for creating custom visualizations using R. You’ll find all the essential R code, Excel datasets, and generated graphs in organized branches. Additionally, this guide walks you through how to use the FRED API key to fetch data dynamically.
+This repository provides templates, data, and output graphs for creating custom visualizations using R. You’ll find all the essential R code, Excel datasets, and generated graphs in organized branches. Additionally, this guide walks you through how to use the FRED API key to fetch data.
 
 
 **The repository is organized into the following branches:**
