@@ -17,7 +17,7 @@ Each script is annotated to guide you through customization.
 - graphs
 
   - PNG files of all the generated graphs.
-  - Use these as references or directly in your reports.
+  - Use these as references or directly in the slide deck.
 
 
 # **Getting Started**
