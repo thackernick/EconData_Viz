@@ -16,7 +16,7 @@ library(zoo)           # For time series manipulation
 # Set the working directory based on the current RStudio document
 setwd()
 
-####Parameters and Colors####
+####Aesthetics####
 font = "Times New Roman"   # Font used in the plot
 font_size = 22             # Font size for labels
 paint = c("#2c608a", "#b93936", "#89ae43", "#fbc632", "#89cce7")  # Custom color palette
