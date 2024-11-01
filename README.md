@@ -1,6 +1,6 @@
 # **Macro Graphing Guide with R**
 
-This repository is a comprehensive guide to graphing the broader contours of the U.S. economy. It covers critical areas such as inflation, the labor market, economic activity, and financial conditions, providing clear, data-driven visuals to illustrate major economic trends using R. You’ll find all the essential R code, Excel datasets, and generated graphs in organized branches. Additionally, this guide walks you through how to use the FRED API key to fetch data.
+This repository is a comprehensive guide to graphing the broader contours of the U.S. economy. It covers critical areas such as inflation, the labor market, economic activity, and financial conditions, providing clear visuals to illustrate major economic trends using R. You’ll find all the essential R code, Excel datasets, and generated graphs in organized branches. Additionally, this guide walks you through how to use the FRED API key to fetch data.
 
 
 **The repository is organized into the following branches:**
