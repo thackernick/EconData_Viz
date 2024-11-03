@@ -32,7 +32,7 @@ savings = fredr('PSAVERT',
 # Select only the first and third columns in the 'savings' data
 savings = savings[, c(1, 3)]
 
-# Rename columns for clarity
+# Rename columns 
 savings = savings %>% 
   rename('Date' = date,    # Rename 'date' column to 'Date'
          'savings' = value) # Rename 'value' column to 'savings'
