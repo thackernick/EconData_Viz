@@ -49,9 +49,6 @@ In the R script, locate the following line:
 fredr_set_key("YOUR_FRED_API_KEY")
 Replace "YOUR_FRED_API_KEY" with the key you generated.
 
-Verify the API connection:
 
-After setting the key, test the connection by fetching a small dataset:
 
-fred_data <- fredr(series_id = 'SAHMCURRENT', observation_start = as.Date("2020-01-01"))
-print(head(fred_data))
+
