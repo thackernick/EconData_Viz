@@ -2,7 +2,7 @@
 # NAIRU
 
 rm(list = ls())
-####preliminaries####
+####Preliminaries####
 library(ggplot2)
 library(dplyr)
 library(tidyverse)
